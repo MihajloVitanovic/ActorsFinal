@@ -1,0 +1,5 @@
+Assigment20- Kontolna tacka 2
+
+Assigment23 - Servisi, Broadcast receiveri, async, simple receiver: Connection status (wifi, lte...)
+Lesson24 - SharedPref
+Lesson25 - ContentProvider(Dobavljaci Sadrzaja)
