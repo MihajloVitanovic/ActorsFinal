@@ -1,5 +1,9 @@
 Assigment20- Kontolna tacka 2
-
+Lesson21 - Procesi i niti, rukovaoci, async
+Lesson22 - Servisi
+Lesson23 - Prijemnici poruka (Broadcast Receiver)
 Assigment23 - Servisi, Broadcast receiveri, async, simple receiver: Connection status (wifi, lte...)
-Lesson24 - SharedPref
-Lesson25 - ContentProvider(Dobavljaci Sadrzaja)
+Lesson24 - SharedPref (Deljena podesavanja)
+Lesson25 - SQLite (baze)
+Lesson26 - ContentProvider(Dobavljaci Sadrzaja)
+Lesson27 - JSON, REST, Networking
